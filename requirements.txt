@@ -6,7 +6,7 @@ Kivy==1.10.1
 Kivy-Garden==0.1.4
 numpy==1.16.2
 pandas==0.24.2
-Pygments==2.3.1
+Pygments==2.7.4
 python-dateutil==2.8.0
 pytz==2018.9
 requests==2.21.0
